@@ -23,7 +23,8 @@ See the LICENSE file in this repository.
 ## Credits:
 
 Made by the **Honza^4** team at Microsoft Czech Republic.
-Members:
+
+### Members:
 - **Jan Nejtek** (STC intern)
 - **Jan Šteberl** (Intl Device Vendor)
 - **Jan Pospíšil** (DX)
