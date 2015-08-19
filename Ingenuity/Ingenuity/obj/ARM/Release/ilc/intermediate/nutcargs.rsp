@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\Jan Nejtek\Documents\Visual Studio 2015\Projects\Ingenuity\Ingenuity\obj\ARM\Release\ilc\intermediate\ILTransformed\Ingenuity.metadata"
+/reflectionMetadataAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\Jan Nejtek\Documents\Visual Studio 2015\Projects\Ingenuity\Ingenuity\obj\ARM\Release\ilc\intermediate\ILTransformed\Ingenuity.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\Jan Nejtek\Documents\Visual Studio 2015\Projects\Ingenuity\Ingenuity\obj\ARM\Release\ilc\intermediate\ILTransformed\Ingenuity.ilexe"
+/out "C:\Users\Jan Nejtek\Documents\Visual Studio 2015\Projects\Ingenuity\Ingenuity\obj\ARM\Release\ilc\intermediate\MDIL\Ingenuity.mdilexe"

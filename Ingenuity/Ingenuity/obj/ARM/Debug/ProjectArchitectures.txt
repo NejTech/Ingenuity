@@ -1,0 +1,1 @@
+C:\Users\Jan Nejtek\Documents\Visual Studio 2015\Projects\Ingenuity\Ingenuity\Ingenuity.csproj;arm

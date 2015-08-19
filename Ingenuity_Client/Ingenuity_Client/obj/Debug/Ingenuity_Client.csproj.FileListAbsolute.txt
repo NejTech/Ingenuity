@@ -1,0 +1,23 @@
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\bin\Debug\Ingenuity_Client.exe.config
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\bin\Debug\Ingenuity_Client.exe
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\bin\Debug\Ingenuity_Client.pdb
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\Ingenuity_Client.csprojResolveAssemblyReference.cache
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\MainWindow.g.cs
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\RobotControlWindow.g.cs
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\App.g.cs
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\Ingenuity_Client_MarkupCompile.cache
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\Ingenuity_Client_MarkupCompile.lref
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\MainWindow.baml
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\RobotControlWindow.baml
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\Ingenuity_Client.g.resources
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\Ingenuity_Client.Properties.Resources.resources
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\Ingenuity_Client.csproj.GenerateResource.Cache
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\Ingenuity_Client.exe
+c:\users\jan nejtek\documents\visual studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\obj\Debug\Ingenuity_Client.pdb
+C:\Users\Jan Nejtek\Documents\Visual Studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\Jan Nejtek\Documents\Visual Studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\Jan Nejtek\Documents\Visual Studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Users\Jan Nejtek\Documents\Visual Studio 2015\Projects\Ingenuity_Client\Ingenuity_Client\bin\Debug\Vlc.DotNet.Wpf.dll
+\\psf\Home\Documents\Ingenuity GitHub\Ingenuity_Client\Ingenuity_Client\bin\Debug\Ingenuity_Client.exe.config
+\\psf\Home\Documents\Ingenuity GitHub\Ingenuity_Client\Ingenuity_Client\obj\Debug\Ingenuity_Client.exe
+\\psf\Home\Documents\Ingenuity GitHub\Ingenuity_Client\Ingenuity_Client\obj\Debug\Ingenuity_Client.pdb
