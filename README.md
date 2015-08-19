@@ -19,8 +19,8 @@ See the LICENSE file in this repository.
 
 Made by the **Honza^4** team at Microsoft Czech Republic.
 Members:
--**Jan Nejtek** (STC intern)
--**Jan Šteberl** (Intl Device Vendor)
--**Jan Pospíšil** (DX)
--**Jan Hájek** (Skolnilogin.cz)
+- **Jan Nejtek** (STC intern)
+- **Jan Šteberl** (Intl Device Vendor)
+- **Jan Pospíšil** (DX)
+- **Jan Hájek** (Skolnilogin.cz)
 *Fun fact: Honza is the diminutive form of Jan. That's why we are Honza^4 and not Jan^4. :)*
