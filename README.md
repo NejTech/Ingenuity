@@ -5,10 +5,15 @@ This is a robot based on Windows 10 IoT and Arduino that uses dual stepper motor
 ## Usage:
 
 Compile and upload the Ingenuity project to your Raspberry Pi 2 running Windows 10 IoT Core.
+
 Upload the Ingenuity.ino sketch to your Arduino.
+
 *Optional: Install a webcam app of your choice on the Nokia Lumia phone. (MyWebcam, ISeeYou, etc.)*
+
 Connect your hardware as shown in the Hardware.png picture. Make sure all the connections are correct!
+
 Compile and run the Ingenuity_Client program on your computer. Use the WSAD keys to control the robot.
+
 *Optional: Run VLC or other MJPEG player of your choice and open the stream from your phone.*
 
 ## License:
