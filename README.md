@@ -28,4 +28,6 @@ Members:
 - **Jan Šteberl** (Intl Device Vendor)
 - **Jan Pospíšil** (DX)
 - **Jan Hájek** (Skolnilogin.cz)
+
+
 *Fun fact: Honza is the diminutive form of Jan. That's why we are Honza^4 and not Jan^4. :)*
